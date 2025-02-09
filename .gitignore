@@ -3,3 +3,6 @@ data/treino/
 
 # Ignorar o arquivo 'itens-parte3.csv' na pasta 'itens'
 data/itens/
+
+# Ignorar pasta __pycache__
+**/__pycache__/
