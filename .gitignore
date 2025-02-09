@@ -1,0 +1,5 @@
+# Ignorar a pasta 'treino'
+data/treino/
+
+# Ignorar o arquivo 'itens-parte3.csv' na pasta 'itens'
+data/itens/
